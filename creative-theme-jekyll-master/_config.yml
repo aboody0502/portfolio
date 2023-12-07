@@ -1,0 +1,31 @@
+# Site settings
+
+
+title: ABDULLAH OTHMAN
+email: abdullah.b.othman@gmail.com
+description: "Welcome to my personal website, showcasing my academic research, projects, and insights in Electrical Engineering and Wireless Communications." # Short site description
+baseurl: "" # If your site is at the root (e.g., aboody0502.github.io), this stays empty.
+url: "https://aboody0502.github.io" # Replace with your GitHub Pages URL
+
+# Personal info (optional)
+github_username: aboody0502
+linkedin_username: abdullah-b-othman # Replace with your LinkedIn username if you have one
+
+# Build settings
+markdown: kramdown
+theme: creative-theme-jekyll-master # Replace with the theme you're using, if different
+
+# Plugins (optional, only if you use them)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO settings (optional but recommended)
+seo:
+  name: ABDULLAH OTHMAN
+  description: "Your site description for search engines"
+  url: "https://aboody0502.github.io" # Your site URL
+ 
+
+
+
