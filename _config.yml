@@ -13,7 +13,6 @@ linkedin_username: abdullah-b-othman # Replace with your LinkedIn username if yo
 
 # Build settings
 markdown: kramdown
-theme: creative-theme-jekyll-master # Replace with the theme you're using, if different
 
 # Plugins (optional, only if you use them)
 plugins:
